@@ -4,8 +4,9 @@
 
 ## 🔭 Current Projects:
 
-[Project Name 1]: A brief description of your project.
-[Project Name 2]: A brief description of another project.
+MaiL - BoX:
+ -
+Expense Tracker: A brief description of another project.
 
 ## 🌱 What I'm Learning:
 
