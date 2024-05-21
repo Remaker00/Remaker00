@@ -1,3 +1,7 @@
+[NISHANT SOURAV]
+Full-Stack Developer | Passionate Coder | Tech Enthusiast
+
+
 ## About me
 
 👋 Hi there! I'm Nishant Sourav, a dedicated full-stack developer with a knack for creating robust and efficient web applications. With a strong foundation in both frontend and backend technologies, I strive to deliver high-quality code and seamless user experiences.
