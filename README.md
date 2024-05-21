@@ -1,4 +1,4 @@
-[NISHANT SOURAV]
+## NISHANT SOURAV
 Full-Stack Developer | Passionate Coder | Tech Enthusiast
 
 
