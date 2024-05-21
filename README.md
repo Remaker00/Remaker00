@@ -47,7 +47,7 @@ Cloud Computing (AWS, Azure)
 Machine Learning and AI
 DevOps and CI/CD
 
-##🌐 Find me online:
+## 🌐 Find me online:
 
-[GitHub Profile URL]
-[Personal Website/Portfolio URL]
+[https://github.com/Remaker00/]
+[[Portfolio URL](https://my-portfolio-pi-six-42.vercel.app/)]
