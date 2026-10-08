@@ -1,59 +1,43 @@
-## NISHANT SOURAV
-Full-Stack Developer | Passionate Coder | Tech Enthusiast
+## Hi, I'm Nishant Sourav 👋
 
+**Frontend Engineer** · React · Next.js · TypeScript · Noida, India
 
-## About me
+I build fast, SEO-friendly web products that hold up in production, and I measure the results. Over 3+ years I've taken Lighthouse performance scores from **62 → 91**, cut page load times by **35%**, and backed releases with Playwright end-to-end tests.
 
-👋 Hi there! I'm Nishant Sourav, a dedicated full-stack developer with a knack for creating robust and efficient web applications. With a strong foundation in both frontend and backend technologies, I strive to deliver high-quality code and seamless user experiences.
+🟢 **Open to frontend roles** · [Portfolio](https://my-portfolio-pi-six-42.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nishant-sourav-bb5b02269/) · [Email](mailto:nishant.sharma8507966@gmail.com)
 
+---
 
-## 🔭 Current Projects:
+### 🚀 What I've shipped
 
-MaiL - BoX:
- -Full-stack project with fully responsive design.
- -Custom background colour change and real time mail- fetching.
- -Fully authenticate and safe mail app.
- 
-Expense Tracker: 
- -Full-stack project and responsive in nature for all devices.
- -Real time expense data update with chart integration.
- -Payment integration to enable user to download their expense list as a file.
+| Product | What it is | What I did |
+|---|---|---|
+| [**PoweredByAI**](https://poweredbyai.app/) | AI tools platform, 10,000+ listings | Reworked the frontend architecture and rendering pipeline for a **35% performance gain**; shipped **10+ AI features** including auth, search and analytics |
+| [**Zaprep**](https://www.zaprep.com/) | Instagram DM automation SaaS | Built a centralized billing module unifying **Razorpay, Dodo Payments and Stripe**: checkout, subscriptions, refunds, cancellations and webhooks |
+| [**EnviroByte**](https://www.envirobyte.com/) | Sustainability & emissions reporting | Built interactive emissions dashboards that made reporting **30% more efficient** |
 
+### 📈 Impact at ByteQuest Softwares (2024 – 2026)
 
-## 🌱 What I'm Learning:
+- ⚡ Lighthouse performance **62 → 91** by optimizing bundles, images and loading strategy
+- 🧩 **40+ reusable React components**, cutting UI duplication by 25%
+- 🚢 **20+ production features** shipped across multiple releases
+- 🐛 **50+ production issues** resolved and **20+ PRs** reviewed, with **25% fewer** recurring defects
 
-[Python]: I'm currently incresing my knowledge in python to develop a full fledge project using tools in python.
-[Django]: I'm currently learning and fasinated by it's database and super user in-built functionality.
+### 🛠️ Toolkit
 
+- **Build:** React · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · SSR/SSG
+- **Optimize & verify:** Core Web Vitals · Caching & revalidation · Playwright · SEO
+- **Integrate & ship:** REST APIs · Payment integration · Node.js · Express · RAG · Git · Vercel · Postman
 
-## 🎓 Education:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,git,vercel,postman&theme=light" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Node.js, Express, Git, Vercel, Postman" />
+</p>
 
-[B.E.] in [Electrical and Electronics], [Sir M. Visvesvaraya Institote Of Tech.] – [2019-2023]
+### 🎓 Education
 
+- **B.E. Electrical & Electronics**, Sir M. Visvesvaraya Institute of Technology (2019 – 2023)
+- **Full-Stack Course**, Sharpener Tech (2023 – 2024)
 
-## 💬 Ask me about:
+### 💬 Ask me about
 
-Full-Stack Development | Mern-Stack Development
-JavaScript, React, Node.js, Python, Django
-Web Performance Optimization
-API Development and Integration
-
-
-## 📫 How to reach me:
-
-Email: [nishant.sharma8507966@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/nishant-sourav-bb5b02269/]
-
-
-## 🚀 Skills:
-
-Languages: JavaScript, Python, HTML, CSS.
-Frameworks: Next, React, Node.js, Express, Django.
-API's: GraphQL, Rest.
-Tools: Git, Redux, Postman, Bootstrap, Material UI, Tailwind Components.
-Databases: MongoDB, MySQL, PostgreSQL.
-
-
-## 🌐 Find me online:
-
-[[Portfolio URL](https://my-portfolio-pi-six-42.vercel.app/)]
+Frontend performance · Core Web Vitals · Next.js rendering & caching · Payment integrations · E2E testing with Playwright
