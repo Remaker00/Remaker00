@@ -2,7 +2,7 @@
 
 **Frontend Engineer** · React · Next.js · TypeScript · Noida, India
 
-I build fast, SEO-friendly web products that hold up in production, and I measure the results. Over 3+ years I've taken Lighthouse performance scores from **62 → 91**, cut page load times by **35%**, and backed releases with Playwright end-to-end tests.
+I build fast, SEO-friendly web products that hold up in production, and I measure the results. Over 3+ years experience and I've taken Lighthouse performance scores from **62 → 91**, cut page load times by **35%**, and backed releases with Playwright end-to-end tests.
 
 🟢 **Open to frontend roles** · [Portfolio](https://my-portfolio-pi-six-42.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nishant-sourav-bb5b02269/) · [Email](mailto:nishant.sharma8507966@gmail.com)
 
